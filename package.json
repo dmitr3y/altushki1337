@@ -1,0 +1,13 @@
+{
+  "name": "ribalka-bibinto",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Рыбалка на грязнулек с Бибинто — онлайн-сервер (аккаунты, сохранения, топы, ежедневные награды)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
